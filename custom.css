@@ -36,6 +36,6 @@ footer {
     margin-top: 60px;
     padding: 5em;
 }
-select, option{
-    min-width: 180px;
+#shipping{
+    width: 180px;
 }
